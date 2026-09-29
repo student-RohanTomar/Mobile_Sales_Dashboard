@@ -106,7 +106,7 @@ CALCULATE(
 
 ## 📷 Dashboard Preview
 
-![Mobile Sales Dashboard](images/dashboard-preview.png)
+![Mobile Sales Dashboard](dashboard-preview.png)
 
 ## 📂 Repository Structure
 
